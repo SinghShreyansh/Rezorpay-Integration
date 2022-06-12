@@ -1,0 +1,57 @@
+body {
+    font-family: "Nuosu SIL", serif;
+  }
+  .navbar {
+    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+    padding: 10px !important;
+  }
+  .top-header-agile {
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+  }
+  .top-header-agile ul li {
+    display: inline;
+    list-style: none;
+    color: #fff;
+  }
+  #spark-img {
+    height: 40px;
+    width: 40px;
+  }
+  .nav-item {
+    font-weight: bold;
+    margin-left: 20px;
+  }
+  .navbar-collapse {
+    margin-left: 50%;
+  }
+  .col-md-4,
+  .col-md-3,
+  .col-md-10 {
+    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+    color: grey;
+    margin: 23px;
+  }
+  .quote {
+    font-weight: bold;
+    color: #544f4a;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    font-size: 20px;
+  }
+  .col-md-6 {
+    margin-top: 50px;
+  }
+  .footer {
+    text-align: center;
+    margin-top: 50px;
+    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+    padding: 15px;
+  }
+  .footer-ele {
+    margin: 30px;
+  }
+
+ 
+
+  
